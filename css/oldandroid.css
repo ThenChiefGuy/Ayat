@@ -1,0 +1,16 @@
+.anim_menuHintIn{
+	-webkit-animation:none !important;
+}
+.anim_statusIn{
+	-webkit-animation:none !important;
+}
+.anim_menu{
+	-webkit-animation:none !important;
+}
+.anim_toolsIn{
+	-webkit-animation:none !important;
+}
+.submenu{
+	height:1400px !important;
+	width:100% !important;
+}
